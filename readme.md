@@ -15,7 +15,7 @@ Used:
 - darkaonline/l5-swagger
 - Vue + axios + Vuetify
 
-All main logic locates at **Modules\Comparator**.
+All main logic locates at **Modules\Comparator**. Comparative logic locates at **resources/js/components/Comparator.vue**.
 Number of open pull requests and number of closed pull requests is currently limited due to the structure of Github API - paginated list makes to increase the number of requests (in future this issue will be solved).
 
 ## Documentation
